@@ -1,7 +1,3 @@
-
-
-
-readme_content = """
 # 👋 Hi, I'm Erick Ng’ang’a Njihia
 
 **Disciplined and versatile professional** with a strong background in **Petroleum Geoscience**, **military technical training**, and a growing expertise in **Data Science** and **AI applications**. I bring unique insights from fieldwork, disciplined operations, and practical coding projects.
