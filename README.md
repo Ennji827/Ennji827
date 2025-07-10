@@ -1,5 +1,5 @@
 
-# Create a professional GitHub profile README for the user
+
 
 readme_content = """
 # 👋 Hi, I'm Erick Ng’ang’a Njihia
